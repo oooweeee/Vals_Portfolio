@@ -3,5 +3,6 @@ body {
     /* this will set the font of the entire document to arial or a san serif fall back  */
 margin: 0;
 /* removes the default margin around the body */
-
+padding: 0;
+/* removed the default padding around the body  */
 }
