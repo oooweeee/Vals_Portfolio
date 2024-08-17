@@ -5,4 +5,6 @@ margin: 0;
 /* removes the default margin around the body */
 padding: 0;
 /* removed the default padding around the body  */
+background-color: #f0f4f8;
+/* set the background color for the body  */
 }
