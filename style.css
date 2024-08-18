@@ -1,10 +1,17 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     /* this will set the font of the entire document to arial or a san serif fall back  */
-margin: 0;
-/* removes the default margin around the body */
-padding: 0;
-/* removed the default padding around the body  */
-background-color: #f0f4f8;
-/* set the background color for the body  */
+    margin: 0;
+    /* removes the default margin around the body */
+    padding: 0;
+    /* removed the default padding around the body  */
+    background-color: #f0f4f8;
+    /* set the background color for the body  */
+    color: #333;
+    /* setting a dark grey color for the entire page  */
+}
+
+
+header {
+    
 }
